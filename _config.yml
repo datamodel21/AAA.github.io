@@ -44,10 +44,10 @@ author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: David Darnes # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/datamodel21
+    - https://www.facebook.com/DataModel21/
+    - https://www.linkedin.com/in/thakkarrahul01
+    - https://github.com/datamodel21
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -96,10 +96,10 @@ lang: en-GB # Set the site language
 title: "DataModel" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "DataModel - Design effective Information Systems" # Site description and default description, also used in jekyll-seo-tag
-url: "https://thakkarrahul01.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://datamodel21.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/thakkarrahul01/thakkarrahul01.github.io"
-email: "thakkarrahul01@gmail.com"
+repo: "https://github.com/datamodel21/datamodel21.github.io"
+email: "datamodel21@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -139,10 +139,10 @@ navigation_footer:
   url: https://thakkarrahul01.github.io/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
+  Twitter: https://twitter.com/datamodel21
   LinkedIn: https://www.linkedin.com/in/thakkarrahul01
-  GitHub: https://github.com/thakkarrahul01
-  link: https://thakkarrahul01.github.io
+  GitHub: https://github.com/datamodel21
+  link: https://datamodel21.github.io
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
@@ -159,4 +159,3 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
-
