@@ -32,4 +32,4 @@ _[LinkedIn Account](https://www.linkedin.com/in/thakkarrahul01)_
 
 You can click on below buttons to comment about this particular post. Please like, comment and connect to stay in touch!!
 
-Special thanks to David Darnes, for creating and sharing awsome Jekyll theme on which this site is running on. You can check it out _[here](https://github.com/daviddarnes/alembic)_
+Special thanks to David Darnes, for creating and sharing awsome Jekyll theme on which this site is running. You can check it out _[here](https://github.com/daviddarnes/alembic)_
