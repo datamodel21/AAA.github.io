@@ -39,10 +39,10 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: DataModel21 # jekyll-seo-tag > Owners twitter username
+author: Rahul Thakkar # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Rahul Thakkar # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/datamodel21
     - https://www.facebook.com/DataModel21/
