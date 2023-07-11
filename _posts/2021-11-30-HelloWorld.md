@@ -7,7 +7,7 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-Hello everyone and welcome to my very first blog post. Quite excited to start this journey publishing content online and sharing with you all.
+Hello everyone and welcome to my very first blog post. Very excited to start this journey publishing content online and sharing with you all.
 
 About me - 
 
@@ -15,7 +15,7 @@ I am a Software Engineer who is passionate working with data and all application
 
 <!-- more -->
 
-_Why was this set up?
+>*Why was this set up?*
 
 As it stands, it should fulfill 2 purposes -
 
